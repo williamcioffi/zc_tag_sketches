@@ -59,4 +59,4 @@ unadorned with background
 
 <img src="sketches/logo_zc_tag_scar.svg" width="50%">
 
-<img src="sketches/logo_zc_tag_solid.svg" width="50%>
+<img src="sketches/logo_zc_tag_solid.svg" width="50%">
