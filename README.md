@@ -1,5 +1,7 @@
 # zc_tag_sketches
 
+note some of the svgs without backgrounds will look weird if you are using dark mode.
+
 ### tags
 dtag version 2
 
