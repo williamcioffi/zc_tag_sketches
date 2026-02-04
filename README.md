@@ -1,6 +1,6 @@
 # zc_tag_sketches
 
-[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+license: [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 note some of the svgs without backgrounds will look weird if you are using dark mode, but you can edit the color of the outline!
 
