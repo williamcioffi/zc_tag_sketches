@@ -16,7 +16,7 @@ license: [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.
 
 1. Coomber F, Moulins A, Tepsich P, Rosso M. 2016 Sexing free-ranging adult Cuvier’s beaked whales (_Ziphius cavirostris_) using natural marking thresholds and pigmentation patterns. _Journal of Mammalogy_. 97(3):879-90. doi: [10.1093/jmammal/gyw033](https://doi.org/10.1093/jmammal/gyw033)
 
-1. Coomber FG, Falcone EA, Keene EL, Cárdenas-Hinojosa G, Huerta-Patiño R, Rosso M. 2022. Multi-regional comparison of scarring and pigmentation patterns in Cuvier’s beaked whales. Mammalian Biology. 102(3):733-50. doi: [/10.1007/s42991-022-00226-6](https://doi.org/10.1007/s42991-022-00226-6)
+1. Coomber FG, Falcone EA, Keene EL, Cárdenas-Hinojosa G, Huerta-Patiño R, Rosso M. 2022. Multi-regional comparison of scarring and pigmentation patterns in Cuvier’s beaked whales. Mammalian Biology. 102(3):733-50. doi: [10.1007/s42991-022-00226-6](https://doi.org/10.1007/s42991-022-00226-6)
 
 ### tags
 dtag version 2
